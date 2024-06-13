@@ -1,8 +1,7 @@
-# Assignment: ASSIGNMENT 2
 # Name: Grimes, Dominique
 # Date: 2022-06-19
 
-## Check your current working directory using `getwd()`
+## Check current working directory using `getwd()`
 getwd()
 
 ## List the contents of the working directory with the `dir()` function
