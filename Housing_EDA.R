@@ -1,4 +1,3 @@
-# Assignment: Exercise 5
 # Name: Grimes, Dominique
 # Date: 2022-07-10
 
