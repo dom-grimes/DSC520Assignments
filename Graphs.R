@@ -1,4 +1,3 @@
-# Assignment: ASSIGNMENT 3
 # Name: Grimes, Dominique
 # Date: 2022-06-26
 
