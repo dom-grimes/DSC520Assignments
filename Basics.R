@@ -1,8 +1,7 @@
-# Assignment: Exercise 4 #2
 # Name: Grimes, Dominique
 # Date: 2022-07-03
 
-## Check your current working directory using `getwd()`
+## Check current working directory using `getwd()`
 getwd()
 house.data <- read.csv("data/week-6-housing.csv", stringsAsFactors = TRUE)
 str(house.data)
